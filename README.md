@@ -4,8 +4,6 @@ A passionate **Software Engineer** with a strong foundation in full-stack develo
 
 So let’s build something that matters.
 
-📍 Colombo, Sri Lanka
-
 🔗 [GitHub](https://github.com/harinsamaranayake)  
 🔗 [LinkedIn](https://linkedin.com/in/harinsamaranayake)  
 🔗 [Stack Overflow](https://stackoverflow.com/users/9918823/harinsamaranayake)
