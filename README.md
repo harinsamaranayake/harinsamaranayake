@@ -15,18 +15,31 @@ So let’s build something that matters.
 **Geveo Australasia** - Colombo, Sri Lanka [ Aug. 2020 - Present ]
 
 #### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
-- Member of the PEMS V3 Team.  
-- Engaged in process of migrating the Monolithic Architecture to Microservices Architecture.  
-- Upgraded existing Microservices from .NET 6 to .NET 8.  
-- Worked on Azure Cost Analytics with the aim of reducing costs on Azure Resources.  
-- **Technologies:** .NET, React, Azure
+- Led the PEMS V3 Team.
+- Engaged in architectural discussions with product owners, external teams, and stakeholders.
+- Designed architectural diagrams and created technical designs and documentation for new features.
+- Guided the team, helping them identify optimal solutions and best practices.
+- Contributed to the migration from a monolithic architecture to a microservices-based architecture.
+- Upgraded existing microservices from .NET 6 to .NET 8.
+- Engaged in designing the backend for the Duncan Parking App and the Duncan Online Payment Service.
+- Guided the QA team in implementing API and UI automation for the PEMS V3 components.
+- Conducted PR reviews, created release notes, and configured CI/CD pipelines.
+- Collaborated with DevOps teams on production releases.
+- Monitored the production system and analyzed and supported the resolution of production incidents.
+- Performed Azure cost analysis to support cloud resource optimization and cost efficiency.
+- Conducted knowledge-sharing sessions and mentored new joiners and interns.
+- **Technologies:** React, C#, .NET
+- **Platforms:** Azure, Azure DevOps
+- **Tools** Git, Postman
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
 - Member of the Carrier Integration Team.  
-- Integrated couriers including FedEx, Toll, DHL, Janio, and CJ Century to the Shippit Platform.  
-- Performed Automatic and Manual Testing.  
-- Integrated CI/CD pipelines.  
-- **Technologies:** Ruby on Rails, AWS, Buildkite  
+- Integrated couriers, including FedEx, DHL, Toll, Janio, and CJ Century, to the Shippit platform.
+- Integrated CI/CD pipelines. 
+- Performed automated and manual testing. 
+- **Technologies:** React, Ruby, Ruby on Rails
+- **Platforms:** AWS
+- **Tools** Git, Buildkite, Confluence  
 
 ### Trainee Software Engineer 
 
