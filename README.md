@@ -29,7 +29,7 @@ So let’s build something that matters.
 - Performed Azure cost analysis to support cloud resource optimization and cost efficiency.
 - Conducted knowledge-sharing sessions and mentored new joiners and interns.
 - **Technologies:** React, C#, .NET
-- **Platforms:** Azure, Azure DevOps
+- **Platforms:** Azure (Service Bus, Cosmos DB, Functions, Storage, Maps, API Management, Key Vault, Event Hub, etc.), Azure DevOps
 - **Tools** Git, Postman
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
