@@ -30,8 +30,8 @@ So let’s build something that matters.
 - Enhanced test coverage and reliability by guiding the QA team in implementing API and UI automation for PEMS V3 components.
 - Mentored team members, including new joiners and interns, and conducted knowledge-sharing sessions to strengthen team capabilities.
 - **Technologies:** React, C#, .NET
-- **Platforms:** Azure (Cosmos DB, Service Bus, Function Apps, Web Apps, Application Insights, API Management, Key Vault, Event Hub, Storage, Maps, etc.)
-- **Tools:** Azure DevOps (Boards, Repos, Pipelines, etc.), Git, Postman
+- **Platforms:** Azure services including Cosmos DB, Service Bus, Function Apps, Web Apps, Application Insights, API Management, Key Vault, Event Hub, Storage, and Maps
+- **Tools:** Azure DevOps (Boards, Repos, Pipelines), Git, Postman
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
 - Member of the Carrier Integration Team.  
