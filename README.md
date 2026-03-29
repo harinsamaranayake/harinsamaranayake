@@ -19,7 +19,7 @@ So let’s build something that matters.
 - Managed team workflows, delegated tasks, and monitored progress to ensure timely delivery of key features.
 - Engaged in architectural discussions with product owners, external teams, and stakeholders to design scalable and robust solutions.
 - Designed high-level architecture and detailed technical solutions for key systems such as the Duncan Parking App and Duncan Online Payment Service.
-- Provided technical leadership by guiding solution design, enforcing best practices, and maintaining high code quality.
+- Provided technical leadership by guiding solution design, implementing coding standards, design guidelines, and best practices across the team to improve consistency and maintainability.
 - Contributed to the migration of the system from a monolithic to a microservices architecture, improving scalability and maintainability.
 - Upgraded existing microservices from .NET 6 to .NET 8, enhancing performance, security, and long-term support.
 - Optimized cloud resource utilization by performing Azure cost analysis and identifying cost-efficiency improvements.
