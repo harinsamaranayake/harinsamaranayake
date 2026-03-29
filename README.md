@@ -35,9 +35,9 @@ So let’s build something that matters.
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
 - Member of the Carrier Integration Team.  
-- Integrated couriers, including FedEx, DHL, Toll, Janio, and CJ Century, to the Shippit platform.
-- Integrated CI/CD pipelines. 
-- Performed automated and manual testing. 
+- Integrated courier services, including FedEx, DHL, Toll, Janio, and CJ Century, to the Shippit platform.
+- Optimized CI/CD pipelines for efficient development and deployment.
+- Performed both automated and manual testing to ensure quality and reliability.
 - **Technologies:** React, Ruby, Ruby on Rails
 - **Platforms:** AWS
 - **Tools:** Jira, Confluence, Buildkite, Git  
