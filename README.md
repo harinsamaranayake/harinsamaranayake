@@ -52,6 +52,7 @@ So let’s build something that matters.
 - Conducted R & D analysis of Android Shared Memory Management.  
 - Improved functionality of ETG Test Tools while automating test environments using Jenkins and Artifactory.  
 - **Technologies:** Android, Python, Jenkins
+- **Tools:** Jira, Confluence, Jenkins, Git  
 
 ## Research Experience
 
@@ -60,7 +61,7 @@ So let’s build something that matters.
 - Identification of water surfaces using Unmanned Aerial Vehicles (UAVs).  
 - Implemented and evaluated UNet combined with RAU, Dense Optical Flow, and Hough Circles.  
 - Introduced **UAV-WATER dataset**, containing images and videos of water surfaces captured from UAVs.
-- **Technologies:** Python, OpenCV, Keras
+- **Technologies:** Python, OpenCV, Keras, TensorFlow
 
 ## Research Interests
 
