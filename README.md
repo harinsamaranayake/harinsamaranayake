@@ -16,6 +16,7 @@ So let’s build something that matters.
 
 #### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
 - Led the PEMS V3 team, driving delivery and ensuring alignment with business and technical objectives.
+- Managed team workflows, delegated tasks, and monitored progress to ensure timely delivery of key features.
 - Engaged in architectural discussions with product owners, external teams, and stakeholders to design scalable and robust solutions.
 - Designed high-level architecture and detailed technical solutions for key systems such as the Duncan Parking App and Duncan Online Payment Service.
 - Provided technical leadership by guiding solution design, enforcing best practices, and maintaining high code quality.
