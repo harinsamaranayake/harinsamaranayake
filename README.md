@@ -17,15 +17,16 @@ So let’s build something that matters.
 #### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
 - Led the PEMS V3 team, driving delivery and ensuring alignment with business and technical objectives.
 - Managed team workflows, delegated tasks, and monitored progress to ensure timely delivery of key features.
+- Facilitated Agile Scrum practices, including sprint planning, daily stand-ups, reviews, and retrospectives to ensure effective delivery.
 - Engaged in architectural discussions with product owners, external teams, and stakeholders to design scalable and robust solutions.
 - Designed high-level architecture and detailed technical solutions for key systems such as the Duncan Parking App and Duncan Online Payment Service.
-- Provided technical leadership by guiding solution design, implementing coding standards, design guidelines, and best practices across the team to improve consistency and maintainability.
-- Contributed to the migration of the system from a monolithic to a microservices architecture, improving scalability and maintainability.
+- Provided technical leadership by guiding solution design and implementing coding standards and best practices across the team to improve consistency and maintainability.
+- Contributed to the migration of the system from a monolithic to a microservices-based architecture, improving scalability and maintainability.
 - Upgraded existing microservices from .NET 6 to .NET 8, enhancing performance, security, and long-term support.
-- Optimized cloud resource utilization by performing Azure cost analysis and identifying cost-efficiency improvements.
+- Optimized cloud resource utilization and improved cost efficiency through Azure cost analysis.
 - Streamlined development and deployment by conducting pull request reviews, preparing release notes, and implementing CI/CD pipelines.
 - Collaborated with DevOps teams to manage and execute production releases efficiently.
-- Monitored production systems, proactively analyzed issues, and supported the timely resolution of production incidents.
+- Monitored production systems, proactively analyzed issues, and supported the timely resolution of incidents.
 - Enhanced test coverage and reliability by guiding the QA team in implementing API and UI automation for PEMS V3 components.
 - Mentored team members, including new joiners and interns, and conducted knowledge-sharing sessions to strengthen team capabilities.
 - **Technologies:** React, C#, .NET
