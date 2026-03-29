@@ -17,18 +17,18 @@ So let’s build something that matters.
 #### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
 - Led the PEMS V3 team, driving delivery and ensuring alignment with business and technical objectives.
 - Engaged in architectural discussions with product owners, external teams, and stakeholders to design scalable and robust solutions.
-- Designed high-level architecture and detailed technical solutions, including architecture diagrams and technical documentation for key systems such as the Duncan Parking App and Duncan Online Payment Service.
-- Provided technical leadership by guiding solution design, enforcing best practices, and maintaining high code quality standards.
-- Contributed to the migration of the system from a monolithic to a microservices-based architecture, improving scalability and maintainability.
+- Designed high-level architecture and detailed technical solutions for key systems such as the Duncan Parking App and Duncan Online Payment Service.
+- Provided technical leadership by guiding solution design, enforcing best practices, and maintaining high code quality.
+- Contributed to the migration of the system from a monolithic to a microservices architecture, improving scalability and maintainability.
 - Upgraded existing microservices from .NET 6 to .NET 8, enhancing performance, security, and long-term support.
+- Optimized cloud resource utilization by performing Azure cost analysis and identifying cost-efficiency improvements.
 - Streamlined development and deployment by conducting pull request reviews, preparing release notes, and implementing CI/CD pipelines.
 - Collaborated with DevOps teams to manage and execute production releases efficiently.
 - Monitored production systems, proactively analyzed issues, and supported the timely resolution of production incidents.
 - Enhanced test coverage and reliability by guiding the QA team in implementing API and UI automation for PEMS V3 components.
-- Optimized cloud resource utilization by performing Azure cost analysis and identifying cost-efficiency improvements.
 - Mentored team members, including new joiners and interns, and conducted knowledge-sharing sessions to strengthen team capabilities.
 - **Technologies:** React, C#, .NET
-- **Platforms:** Azure Cosmos DB, Service Bus, Functions, Application Insights, API Management, Key Vault, Event Hub, Storage, Maps, etc.)
+- **Platforms:** Azure (Cosmos DB, Service Bus, Function Apps, Web Apps, Application Insights, API Management, Key Vault, Event Hub, Storage, Maps, etc.)
 - **Tools:** Azure DevOps (Boards, Repos, Pipelines, etc.), Git, Postman
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
