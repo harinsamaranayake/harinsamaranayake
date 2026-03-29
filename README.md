@@ -15,22 +15,21 @@ So let’s build something that matters.
 **Geveo Australasia** - Colombo, Sri Lanka [ Aug. 2020 - Present ]
 
 #### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
-- Led the PEMS V3 Team.
-- Engaged in architectural discussions with product owners, external teams, and stakeholders.
-- Designed architectural diagrams and created technical designs and documentation for new features.
-- Guided the team, helping them identify optimal solutions and best practices.
-- Contributed to the migration from a monolithic architecture to a microservices-based architecture.
-- Upgraded existing microservices from .NET 6 to .NET 8.
-- Engaged in designing the backend for the Duncan Parking App and the Duncan Online Payment Service.
-- Guided the QA team in implementing API and UI automation for the PEMS V3 components.
-- Conducted PR reviews, created release notes, and configured CI/CD pipelines.
-- Collaborated with DevOps teams on production releases.
-- Monitored the production system and analyzed and supported the resolution of production incidents.
-- Performed Azure cost analysis to support cloud resource optimization and cost efficiency.
-- Conducted knowledge-sharing sessions and mentored new joiners and interns.
+- Led the PEMS V3 team, driving delivery and ensuring alignment with business and technical objectives.
+- Engaged in architectural discussions with product owners, external teams, and stakeholders to design scalable and robust solutions.
+- Designed high-level architecture and detailed technical solutions, including architecture diagrams and technical documentation for key systems such as the Duncan Parking App and Duncan Online Payment Service.
+- Provided technical leadership by guiding solution design, enforcing best practices, and maintaining high code quality standards.
+- Contributed to the migration of the system from a monolithic to a microservices-based architecture, improving scalability and maintainability.
+- Upgraded existing microservices from .NET 6 to .NET 8, enhancing performance, security, and long-term support.
+- Streamlined development and deployment by conducting pull request reviews, preparing release notes, and implementing CI/CD pipelines.
+- Collaborated with DevOps teams to manage and execute production releases efficiently.
+- Monitored production systems, proactively analyzed issues, and supported the timely resolution of production incidents.
+- Enhanced test coverage and reliability by guiding the QA team in implementing API and UI automation for PEMS V3 components.
+- Optimized cloud resource utilization by performing Azure cost analysis and identifying cost-efficiency improvements.
+- Mentored team members, including new joiners and interns, and conducted knowledge-sharing sessions to strengthen team capabilities.
 - **Technologies:** React, C#, .NET
-- **Platforms:** Azure (Service Bus, Cosmos DB, Functions, Storage, Maps, API Management, Key Vault, Event Hub, etc.), Azure DevOps
-- **Tools** Git, Postman
+- **Platforms:** Azure Cosmos DB, Service Bus, Functions, Application Insights, API Management, Key Vault, Event Hub, Storage, Maps, etc.)
+- **Tools:** Azure DevOps (Boards, Repos, Pipelines, etc.), Git, Postman
 
 #### Shippit | [www.shippit.com](https://www.shippit.com)
 - Member of the Carrier Integration Team.  
@@ -39,7 +38,7 @@ So let’s build something that matters.
 - Performed automated and manual testing. 
 - **Technologies:** React, Ruby, Ruby on Rails
 - **Platforms:** AWS
-- **Tools** Git, Buildkite, Confluence  
+- **Tools:** Jira, Confluence, Buildkite, Git  
 
 ### Trainee Software Engineer 
 
