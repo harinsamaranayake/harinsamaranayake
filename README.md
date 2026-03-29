@@ -14,7 +14,7 @@ So let’s build something that matters.
 
 **Geveo Australasia** - Colombo, Sri Lanka [ Aug. 2020 - Present ]
 
-#### PEMS v3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
+#### PEMS V3 | [www.duncansolutions.com.au](https://www.duncansolutions.com.au)
 - Led the PEMS V3 team, driving delivery and ensuring alignment with business and technical objectives.
 - Managed team workflows, delegated tasks, and monitored progress to ensure timely delivery of key features.
 - Facilitated Agile Scrum practices, including sprint planning, daily stand-ups, reviews, and retrospectives to ensure effective delivery.
