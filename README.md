@@ -10,7 +10,7 @@ So let’s build something that matters.
 
 ## Work Experience
 
-### Senior Software Engineer
+### Associate Technical Lead
 
 **Geveo Australasia** - Colombo, Sri Lanka [ Aug. 2020 - Present ]
 
